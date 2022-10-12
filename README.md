@@ -95,6 +95,6 @@ default-collection-head: 'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dX
 
 
 # DONT TOUCH
-config-version: 4
+config-version: 5
 
 ```
